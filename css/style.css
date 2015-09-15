@@ -156,7 +156,7 @@ html, body {
 .cd-logo {
   display: block;
   position: absolute;
-  top: 50%;
+  top: 90%;
   bottom: auto;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
